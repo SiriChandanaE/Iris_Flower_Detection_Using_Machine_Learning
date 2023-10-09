@@ -1,2 +1,2 @@
 # Iris_Flower_Detection_Using_Machine_Learning
-In this project, I have developed a Iris Flower Detection using KNN Algorithm.
+This repository contains code and resources for a iris flower detection model using KNN Algorithm. The goal of this project is to detect the iris flower based on various features such as sepal_length, sepal_width, petal_length, petal_width.
